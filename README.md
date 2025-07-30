@@ -12,13 +12,13 @@ A Tableau dashboard analyzing electric vehicle adoption trends using real-world 
 - Identified top regions and growth patterns
 
 ## 📁 Files
-- `EV Vehicles.twb` – Tableau dashboard
-- `Electric_Vehicle_Population_Data.xlsx` – Source data
+- [EV Vehicles.twb](EV%20Vehicles.twb) – Tableau dashboard  
+- [Electric_Vehicle_Population_Data.xlsx](Electric_Vehicle_Population_Data.xlsx) – Source data
 
 ## 📌 Highlights
 - Cleaned and prepared raw data in Excel
 - Used calculated fields and filters in Tableau
 - Insights can support policy and infrastructure planning
 
-## 🔗 Contact
+## 📬 Contact
 [sinchanaa08@gmail.com](mailto:sinchanaa08@gmail.com)
